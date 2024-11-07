@@ -2,8 +2,7 @@ THIS FILE DOES NNOT CONTAIN .EXPO, .IDEA, NODE_MODULES FOLDER
 
 
 
-<img src="./screenshot/1.jpg" alt="Screenshot 1" width="200">
-<img src="./screenshot/2.jpg" alt="Screenshot 2" width="200">
+<img src="./screenshot/1.jpg" alt="Screenshot 1" width="200"> <img src="./screenshot/2.jpg" alt="Screenshot 2" width="200">
 <img src="./screenshot/3.jpg" alt="Screenshot 3" width="200">
 <img src="./screenshot/4.jpg" alt="Screenshot 4" width="200">
 <img src="./screenshot/5.jpg" alt="Screenshot 5" width="200">
