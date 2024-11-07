@@ -1,7 +1,32 @@
 THIS FILE DOES NNOT CONTAIN .EXPO, .IDEA, NODE_MODULES FOLDER 
 
 
-BEFORE RUNNING
 
 
-MOVE YOUR IMAGE FOLDER IN THE FOLDER NAME 'Images'
+![Screenshot 1](./screenshot/1.jpg)
+![Screenshot 2](./screenshot/2.jpg)
+![Screenshot 3](./screenshot/3.jpg)
+![Screenshot 4](./screenshot/4.jpg)
+![Screenshot 5](./screenshot/5.jpg)
+![Screenshot 6](./screenshot/6.jpg)
+![Screenshot 7](./screenshot/7.jpg)
+![Screenshot 8](./screenshot/8.jpg)
+![Screenshot 9](./screenshot/9.jpg)
+![Screenshot 10](./screenshot/10.jpg)
+![Screenshot 11](./screenshot/11.jpg)
+![Screenshot 12](./screenshot/12.jpg)
+![Screenshot 13](./screenshot/13.jpg)
+![Screenshot 14](./screenshot/14.jpg)
+![Screenshot 15](./screenshot/15.jpg)
+![Screenshot 16](./screenshot/16.jpg)
+![Screenshot 17](./screenshot/17.jpg)
+![Screenshot 18](./screenshot/18.jpg)
+![Screenshot 19](./screenshot/19.jpg)
+![Screenshot 20](./screenshot/20.jpg)
+![Screenshot 21](./screenshot/21.jpg)
+![Screenshot 22](./screenshot/22.jpg)
+![Screenshot 23](./screenshot/23.jpg)
+![Screenshot 24](./screenshot/24.jpg)
+![Screenshot 25](./screenshot/25.jpg)
+![Screenshot 26](./screenshot/26.jpg)
+![Screenshot 27](./screenshot/27.jpg)
